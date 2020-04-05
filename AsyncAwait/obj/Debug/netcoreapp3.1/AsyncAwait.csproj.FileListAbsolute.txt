@@ -1,0 +1,11 @@
+C:\Users\Jenny\JetBrains\AsyncAwait\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.csprojAssemblyReference.cache
+C:\Users\Jenny\JetBrains\AsyncAwait\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\Jenny\JetBrains\AsyncAwait\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.AssemblyInfo.cs
+C:\Users\Jenny\JetBrains\AsyncAwait\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.exe
+C:\Users\Jenny\JetBrains\AsyncAwait\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.deps.json
+C:\Users\Jenny\JetBrains\AsyncAwait\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.runtimeconfig.json
+C:\Users\Jenny\JetBrains\AsyncAwait\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.runtimeconfig.dev.json
+C:\Users\Jenny\JetBrains\AsyncAwait\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.dll
+C:\Users\Jenny\JetBrains\AsyncAwait\AsyncAwait\bin\Debug\netcoreapp3.1\AsyncAwait.pdb
+C:\Users\Jenny\JetBrains\AsyncAwait\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.dll
+C:\Users\Jenny\JetBrains\AsyncAwait\AsyncAwait\obj\Debug\netcoreapp3.1\AsyncAwait.pdb
